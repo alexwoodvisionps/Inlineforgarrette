@@ -1,0 +1,2 @@
+module SiteadminpanelHelper
+end

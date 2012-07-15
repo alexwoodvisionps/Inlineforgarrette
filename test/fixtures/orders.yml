@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  total: 9.99
+  timeplaced: 2012-07-14 20:32:46
+  timecomplete: 2012-07-14 20:32:46
+  shippingstreet1: MyString
+  shippingstreet2: MyString
+  shippingcity: MyString
+  shippingstate: MyString
+  shippingcountry: MyString
+  shippingzipcode: MyString
+  billingstreet1: MyString
+  billingstreet2: MyString
+  billingcity: MyString
+  billingstate: MyString
+  billingcountry: MyString
+  billingzipcode: MyString
+  encryptedcreditcard: MyString
+  cvr: MyString
+  expirationyear: 1
+  expirationmonth: 1
+
+two:
+  user_id: 1
+  total: 9.99
+  timeplaced: 2012-07-14 20:32:46
+  timecomplete: 2012-07-14 20:32:46
+  shippingstreet1: MyString
+  shippingstreet2: MyString
+  shippingcity: MyString
+  shippingstate: MyString
+  shippingcountry: MyString
+  shippingzipcode: MyString
+  billingstreet1: MyString
+  billingstreet2: MyString
+  billingcity: MyString
+  billingstate: MyString
+  billingcountry: MyString
+  billingzipcode: MyString
+  encryptedcreditcard: MyString
+  cvr: MyString
+  expirationyear: 1
+  expirationmonth: 1

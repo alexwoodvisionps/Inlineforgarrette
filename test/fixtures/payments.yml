@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  encryptedcreditcard: 
+  dateend: 
+  cvr: 
+  expirationyear: 
+  experationmonth: 
+  status: 
+  billingstreet: 
+  billingstreet2: 
+  billingcity: 
+  billingstate: 
+  billingcountry: 
+  billingzipcode: 
+  shippingstreet: 
+  shippingcity: 
+  shippingstate: 
+
+two:
+  encryptedcreditcard: 
+  dateend: 
+  cvr: 
+  expirationyear: 
+  experationmonth: 
+  status: 
+  billingstreet: 
+  billingstreet2: 
+  billingcity: 
+  billingstate: 
+  billingcountry: 
+  billingzipcode: 
+  shippingstreet: 
+  shippingcity: 
+  shippingstate: 
